@@ -22,6 +22,7 @@ Material UI, Tailwind CSS
 🚀 What I'm Working On:
 
 Working on implementing some of my previous ideas using .NET.
+
 📫 How to Reach Me:
 
 Email: tmsvktr@gmail.com
