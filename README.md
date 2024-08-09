@@ -26,4 +26,5 @@ Working on implementing some of my previous ideas using .NET.
 📫 How to Reach Me:
 
 Email: tmsvktr@gmail.com
+
 LinkedIn: Viktória Hajduné Tamás
